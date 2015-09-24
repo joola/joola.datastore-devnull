@@ -4,11 +4,11 @@
 
 [![Build Status][3]][4] [![Gitter chat](https://badges.gitter.im/joola/joola.png)](https://gitter.im/joola)
 
-**joola.datastore-embedded** is a joola plugin to provide an in-memory based data store for its operation.
+**joola.datastore-devnull** is a joola plugin to provide an in-memory based data store for its operation.
 
 ### Setup Guide
 
-There's no need to setup anything, the embedded store is used when no other data stores are configured.
+There's no need to setup anything, the /dev/null store is used when no other data stores are configured.
 
 ### Contributing
 We would love to get your help! We have outlined a simple [Contribution Policy][18] to support a transparent and easy merging
@@ -31,10 +31,10 @@ Contacting us is easy, ping us on one of these:
 Copyright (c) 2012-2015 Joola Smart Solutions. GPLv3 Licensed, see [LICENSE][24] for details.
 
 
-[1]: https://coveralls.io/repos/joola/joola.datastore-embedded/badge.png?branch=develop
-[2]: https://coveralls.io/r/joola/joola.datastore-embedded?branch=develop
-[3]: https://travis-ci.org/joola/joola.datastore-embedded.png?branch=develop
-[4]: https://travis-ci.org/joola/joola.datastore-embedded?branch=develop
+[1]: https://coveralls.io/repos/joola/joola.datastore-devnull/badge.png?branch=develop
+[2]: https://coveralls.io/r/joola/joola.datastore-devnull?branch=develop
+[3]: https://travis-ci.org/joola/joola.datastore-devnull.png?branch=develop
+[4]: https://travis-ci.org/joola/joola.datastore-devnull?branch=develop
 [14]: https://github.com/joola/joola
 [15]: http://nodejs.org
 [16]: http://serverfault.com/

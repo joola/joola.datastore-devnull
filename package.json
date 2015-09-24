@@ -1,15 +1,15 @@
 {
-  "name": "joola.datastore-embedded",
+  "name": "joola.datastore-devnull",
   "preferGlobal": false,
-  "version": "0.0.3",
+  "version": "0.0.1",
   "author": "Joola <info@joo.la>",
-  "description": "joola Embedded Datastore",
+  "description": "joola /dev/null Datastore",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "http://github.com/joola/joola.datastore-embedded.git"
+    "url": "http://github.com/joola/joola.datastore-devnull.git"
   },
-  "bugs": "http://github.com/joola/joola.datastore-embedded/issues",
+  "bugs": "http://github.com/joola/joola.datastore-devnull/issues",
   "contributors": [
     {
       "name": "Itay Weinberger",
@@ -26,11 +26,6 @@
     "noSQL"
   ],
   "dependencies": {
-    "async": "~0.9.0",
-    "cloneextend": "^0.0.3",
-    "nedb": "https://github.com/joola/nedb/tarball/master",
-    "traverse": "^0.6.6",
-    "underscore": "^1.7.0"
   },
   "license": "MIT"
 }
